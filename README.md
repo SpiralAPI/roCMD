@@ -13,6 +13,7 @@ I am using a module known as pyrblx (https://pypi.org/project/pyrblx/) to use RO
 * More Commands for Information (assets, catalog, search, games, avatar) | NOT YET COMPLETE
 * Control Roblox, etc control roles in groups, games, and cover as many API endpoints as possible. | NOT YET COMPLETE
 * Make a Discord Bot version of roCMD.
+* Roblox Plugin, so you can use it via Roblox Studio.
 
 ### Usage
 I have made this as easy as possible. 
