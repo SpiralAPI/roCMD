@@ -61,8 +61,8 @@ To get a list of commands, you can run 'help' within roCMD, or use the list belo
                                         thumbnailURL <userid> | Returns the URL for the users Thumbnail picture.
 ```
 ### Screenshots & Gifs
-https://i.gyazo.com/8f3075411b6e1ba9110c54ed0017f578.mp4
-https://i.gyazo.com/22cb7e5b2a804723d1f226fff5d12aa0.png
+![gif](https://i.gyazo.com/8f3075411b6e1ba9110c54ed0017f578.mp4)
+~[picture](https://i.gyazo.com/22cb7e5b2a804723d1f226fff5d12aa0.png)
 
 ### Helpful Links
 * [GitHub Repository](https://github.com/SpiralGaia/roCMD)
