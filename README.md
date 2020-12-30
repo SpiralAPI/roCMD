@@ -29,7 +29,7 @@ If any issues come up, feel free to report them.
 To get a list of commands, you can run 'help' within roCMD, or use the list below.
 
 ```
-COMMANDS >
+                    COMMANDS >
                                 GROUPS >
                                         listAllies <groupid> | Lists all allies of the group.
                                         getName <groupid> | Lists name of the selected group.
