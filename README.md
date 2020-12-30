@@ -16,7 +16,7 @@ I am using a module known as pyrblx (https://pypi.org/project/pyrblx/) to use RO
 * Roblox Plugin, so you can use it via Roblox Studio.
 
 ### Usage
-I have made this as easy as possible. 
+I have made this as easy as possible. First, please download the program from [GitHub](https://github.com/SpiralGaia/roCMD).
 
 After downloading the rocmd-master.zip, please unzip it to your preferred location. 
 
@@ -60,7 +60,13 @@ To get a list of commands, you can run 'help' within roCMD, or use the list belo
                                         avatarURL <userid> | Returns the URL for the users Avatar picture.
                                         thumbnailURL <userid> | Returns the URL for the users Thumbnail picture.
 ```
+### Screenshots & Gifs
+![8f3075411b6e1ba9110c54ed0017f578 (1)|video](upload://zabeQHNpchOm9ceyzfEmU1IezJm.mp4) 
+![image|649x160](upload://a9p51j4ZF3BIBRJ6vRm4UWAXRx8.png) 
 
+### Helpful Links
+* [GitHub Repository](https://github.com/SpiralGaia/roCMD)
+* [DevForum Post](https://devforum.roblox.com/t/rocmd-a-command-based-terminal-for-retrieving-information-of-creations-on-roblox/951834)
 
 
 
