@@ -62,7 +62,7 @@ To get a list of commands, you can run 'help' within roCMD, or use the list belo
 ```
 ### Screenshots & Gifs
 
-https://user-images.githubusercontent.com/45252038/103330461-980f7400-4a2f-11eb-808e-fab4adb20ef7.mp4
+![8f3075411b6e1ba9110c54ed0017f578 (1)](https://user-images.githubusercontent.com/45252038/103330461-980f7400-4a2f-11eb-808e-fab4adb20ef7.mp4)
 ![22cb7e5b2a804723d1f226fff5d12aa0](https://user-images.githubusercontent.com/45252038/103330471-a1004580-4a2f-11eb-8ef8-ce86bb189c9f.png)
 
 
